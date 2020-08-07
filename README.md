@@ -1,4 +1,4 @@
-# Restaurant-Review-Sentiment-Analysis-System
+# NLP based Restaurant-Review-Sentiment-Analysis-Web-App
 
 This is Customer-ready Web App based on Machine Perception Algorithm, whcih accepts the reviews & feedbacks from the customers & perfoms a Sentiment Analysis System to enable the Restaurant Owners to develop better strategies for customer retention & satisfaction .
 As it is said " Customer is the King " . LONG LIVE THE KING !!
